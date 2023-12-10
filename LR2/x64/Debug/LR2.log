@@ -1,0 +1,4 @@
+﻿  LR2.cpp
+E:\Projects\DiscreteMath\LR2\LR2\LR2.cpp(41,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+E:\Projects\DiscreteMath\LR2\LR2\LR2.cpp(42,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  LR2.vcxproj -> E:\Projects\DiscreteMath\LR2\x64\Debug\LR2.exe
